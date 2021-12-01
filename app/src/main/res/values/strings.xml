@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">The sunrise fills me with energy</string>
+    <string name="affirmation2">Opportunity comes easily to me</string>
+    <string name="affirmation3">My body feels great and I am healing</string>
+    <string name="affirmation4">My mind is filled with love and gratitude</string>
+    <string name="affirmation5">I choose happiness and abundance today</string>
+    <string name="affirmation6">I can reach any goal</string>
+    <string name="affirmation7">Every step I take makes a difference</string>
+    <string name="affirmation8">I have the courage I need to succeed</string>
+    <string name="affirmation9">I am confident in my abilities</string>
+    <string name="affirmation10">I am enough</string>
+</resources>
